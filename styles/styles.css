@@ -201,7 +201,7 @@ section {
 .header-content .right-header img{
   width: 200px;
   height: 200px;
-  margin-left: 25%;
+  margin-left: 35%;
 }
 
 .header-content .right-header .name {
@@ -700,9 +700,11 @@ section {
   font-weight: 700;
   margin-top: 25%;
   text-shadow: 10px #000;
+  text-shadow: #000 2px 3px 2px;
 }
 .main-title h2 span {
   color: var(--color-secondary);
+  text-shadow: #000 2px 3px 2px;
 }
 .main-title h2 .bg-text {
   position: absolute;
@@ -714,6 +716,7 @@ section {
   transform: translate(-50%, -50%);
   font-weight: 800;
   font-size: 6.3rem;
+  opacity: 70%;
 }
 
 .main-title p{
